@@ -6,6 +6,10 @@ It uses Log4j 2.14.1 (through `spring-boot-starter-log4j2` 2.6.1) and the JDK 1.
 
 ![](./screenshot.png)
 
+## Step by step instructions with more details
+
+[https://medium.com/geekculture/log4shell-zero-day-exploit-walkthrough-f42352612ca6](https://medium.com/geekculture/log4shell-zero-day-exploit-walkthrough-f42352612ca6)
+
 ## Running the application
 
 Run it:
